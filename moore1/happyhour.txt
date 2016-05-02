@@ -1,0 +1,401 @@
+islander 0 got a coconut
+islander 7 got a coconut
+islander 8 got a funnel
+islander 8 got a coconut
+islander 3 got a machete
+islander 3 got a funnel
+islander 3 got a coconut
+islander 3 enjoying a pina colada
+islander 2 got a machete
+islander 11 got a funnel
+islander 11 got a coconut
+islander 4 got a machete
+islander 4 got a funnel
+islander 4 got a coconut
+islander 2 got a funnel
+islander 1 got a funnel
+islander 1 got a coconut
+islander 4 enjoying a pina colada
+islander 2 got a coconut
+islander 2 enjoying a pina colada
+islander 10 got a coconut
+islander 18 got a coconut
+islander 16 got a coconut
+islander 19 got a coconut
+islander 20 got a coconut
+islander 25 got a coconut
+islander 28 got a coconut
+islander 31 got a coconut
+islander 35 got a coconut
+islander 36 got a coconut
+islander 40 got a coconut
+islander 45 got a coconut
+islander 47 got a coconut
+islander 3 released a funnel
+islander 3 released a machete
+islander 3 released a coconut
+islander 3 done
+islander 21 got a funnel
+islander 21 got a coconut
+islander 5 got a machete
+islander 2 released a funnel
+islander 22 got a funnel
+islander 22 got a coconut
+islander 22 got a machete
+islander 22 enjoying a pina colada
+islander 2 released a machete
+islander 2 released a coconut
+islander 2 done
+islander 22 released a funnel
+islander 22 released a machete
+islander 22 released a coconut
+islander 22 done
+islander 23 got a funnel
+islander 23 got a coconut
+islander 23 got a machete
+islander 23 enjoying a pina colada
+islander 4 released a funnel
+islander 4 released a machete
+islander 4 released a coconut
+islander 4 done
+islander 29 got a funnel
+islander 29 got a coconut
+islander 29 got a machete
+islander 29 enjoying a pina colada
+islander 29 released a funnel
+islander 29 released a machete
+islander 29 released a coconut
+islander 29 done
+islander 30 got a funnel
+islander 30 got a coconut
+islander 30 got a machete
+islander 30 enjoying a pina colada
+islander 23 released a funnel
+islander 23 released a machete
+islander 23 released a coconut
+islander 23 done
+islander 32 got a funnel
+islander 32 got a coconut
+islander 32 got a machete
+islander 32 enjoying a pina colada
+islander 30 released a funnel
+islander 30 released a machete
+islander 30 released a coconut
+islander 30 done
+islander 12 got a machete
+islander 34 got a funnel
+islander 34 got a coconut
+islander 32 released a funnel
+islander 32 released a machete
+islander 32 released a coconut
+islander 32 done
+islander 41 got a funnel
+islander 41 got a coconut
+islander 41 got a machete
+islander 41 enjoying a pina colada
+islander 41 released a funnel
+islander 41 released a machete
+islander 41 released a coconut
+islander 41 done
+islander 42 got a funnel
+islander 42 got a coconut
+islander 42 got a machete
+islander 42 enjoying a pina colada
+islander 42 released a funnel
+islander 42 released a machete
+islander 42 released a coconut
+islander 42 done
+islander 48 got a funnel
+islander 48 got a coconut
+islander 48 got a machete
+islander 48 enjoying a pina colada
+islander 48 released a funnel
+islander 48 released a machete
+islander 48 released a coconut
+islander 48 done
+islander 5 got a funnel
+islander 5 got a coconut
+islander 5 enjoying a pina colada
+islander 1 got a machete
+islander 1 enjoying a pina colada
+islander 1 released a funnel
+islander 1 released a machete
+islander 1 released a coconut
+islander 1 done
+islander 15 got a machete
+islander 12 got a funnel
+islander 12 got a coconut
+islander 12 enjoying a pina colada
+islander 12 released a funnel
+islander 12 released a machete
+islander 12 released a coconut
+islander 12 done
+islander 15 got a funnel
+islander 15 got a coconut
+islander 15 enjoying a pina colada
+islander 17 got a machete
+islander 15 released a funnel
+islander 15 released a machete
+islander 15 released a coconut
+islander 15 done
+islander 17 got a funnel
+islander 17 got a coconut
+islander 17 enjoying a pina colada
+islander 10 got a machete
+islander 5 released a funnel
+islander 5 released a machete
+islander 5 released a coconut
+islander 5 done
+islander 10 got a funnel
+islander 10 enjoying a pina colada
+islander 18 got a machete
+islander 17 released a funnel
+islander 17 released a machete
+islander 17 released a coconut
+islander 17 done
+islander 18 got a funnel
+islander 18 enjoying a pina colada
+islander 16 got a machete
+islander 10 released a funnel
+islander 10 released a machete
+islander 10 released a coconut
+islander 10 done
+islander 19 got a machete
+islander 16 got a funnel
+islander 16 enjoying a pina colada
+islander 16 released a funnel
+islander 16 released a machete
+islander 16 released a coconut
+islander 16 done
+islander 19 got a funnel
+islander 19 enjoying a pina colada
+islander 20 got a machete
+islander 19 released a funnel
+islander 19 released a machete
+islander 19 released a coconut
+islander 19 done
+islander 20 got a funnel
+islander 20 enjoying a pina colada
+islander 24 got a machete
+islander 18 released a funnel
+islander 18 released a machete
+islander 18 released a coconut
+islander 18 done
+islander 24 got a funnel
+islander 24 got a coconut
+islander 24 enjoying a pina colada
+islander 25 got a machete
+islander 20 released a funnel
+islander 20 released a machete
+islander 20 released a coconut
+islander 20 done
+islander 25 got a funnel
+islander 26 got a machete
+islander 25 enjoying a pina colada
+islander 24 released a funnel
+islander 24 released a machete
+islander 24 released a coconut
+islander 24 done
+islander 26 got a funnel
+islander 26 got a coconut
+islander 26 enjoying a pina colada
+islander 27 got a machete
+islander 25 released a funnel
+islander 25 released a machete
+islander 25 released a coconut
+islander 25 done
+islander 27 got a funnel
+islander 27 got a coconut
+islander 27 enjoying a pina colada
+islander 28 got a machete
+islander 27 released a funnel
+islander 27 released a machete
+islander 27 released a coconut
+islander 27 done
+islander 28 got a funnel
+islander 28 enjoying a pina colada
+islander 31 got a machete
+islander 26 released a funnel
+islander 26 released a machete
+islander 26 released a coconut
+islander 26 done
+islander 31 got a funnel
+islander 31 enjoying a pina colada
+islander 33 got a machete
+islander 31 released a funnel
+islander 31 released a machete
+islander 31 released a coconut
+islander 31 done
+islander 33 got a funnel
+islander 33 got a coconut
+islander 33 enjoying a pina colada
+islander 35 got a machete
+islander 28 released a funnel
+islander 28 released a machete
+islander 28 released a coconut
+islander 28 done
+islander 35 got a funnel
+islander 35 enjoying a pina colada
+islander 36 got a machete
+islander 35 released a funnel
+islander 35 released a machete
+islander 35 released a coconut
+islander 35 done
+islander 36 got a funnel
+islander 36 enjoying a pina colada
+islander 37 got a machete
+islander 33 released a funnel
+islander 33 released a machete
+islander 33 released a coconut
+islander 33 done
+islander 37 got a funnel
+islander 37 got a coconut
+islander 37 enjoying a pina colada
+islander 38 got a machete
+islander 37 released a funnel
+islander 37 released a machete
+islander 37 released a coconut
+islander 37 done
+islander 38 got a funnel
+islander 38 got a coconut
+islander 38 enjoying a pina colada
+islander 39 got a machete
+islander 38 released a funnel
+islander 38 released a machete
+islander 38 released a coconut
+islander 38 done
+islander 39 got a funnel
+islander 39 got a coconut
+islander 39 enjoying a pina colada
+islander 40 got a machete
+islander 36 released a funnel
+islander 36 released a machete
+islander 36 released a coconut
+islander 36 done
+islander 40 got a funnel
+islander 40 enjoying a pina colada
+islander 43 got a machete
+islander 40 released a funnel
+islander 40 released a machete
+islander 40 released a coconut
+islander 40 done
+islander 43 got a funnel
+islander 43 got a coconut
+islander 43 enjoying a pina colada
+islander 44 got a machete
+islander 39 released a funnel
+islander 39 released a machete
+islander 39 released a coconut
+islander 39 done
+islander 44 got a funnel
+islander 44 got a coconut
+islander 44 enjoying a pina colada
+islander 45 got a machete
+islander 44 released a funnel
+islander 44 released a machete
+islander 44 released a coconut
+islander 44 done
+islander 45 got a funnel
+islander 45 enjoying a pina colada
+islander 46 got a machete
+islander 45 released a funnel
+islander 45 released a machete
+islander 45 released a coconut
+islander 45 done
+islander 46 got a funnel
+islander 46 got a coconut
+islander 46 enjoying a pina colada
+islander 47 got a machete
+islander 46 released a funnel
+islander 46 released a machete
+islander 46 released a coconut
+islander 46 done
+islander 47 got a funnel
+islander 47 enjoying a pina colada
+islander 49 got a machete
+islander 47 released a funnel
+islander 47 released a machete
+islander 47 released a coconut
+islander 47 done
+islander 49 got a funnel
+islander 49 got a coconut
+islander 49 enjoying a pina colada
+islander 21 got a machete
+islander 21 enjoying a pina colada
+islander 43 released a funnel
+islander 43 released a machete
+islander 43 released a coconut
+islander 43 done
+islander 6 got a machete
+islander 6 got a funnel
+islander 6 got a coconut
+islander 6 enjoying a pina colada
+islander 6 released a funnel
+islander 6 released a machete
+islander 6 released a coconut
+islander 6 done
+islander 0 got a machete
+islander 0 got a funnel
+islander 0 enjoying a pina colada
+islander 49 released a funnel
+islander 49 released a machete
+islander 49 released a coconut
+islander 49 done
+islander 7 got a machete
+islander 7 got a funnel
+islander 7 enjoying a pina colada
+islander 7 released a funnel
+islander 7 released a machete
+islander 7 released a coconut
+islander 7 done
+islander 9 got a machete
+islander 9 got a funnel
+islander 9 got a coconut
+islander 9 enjoying a pina colada
+islander 0 released a funnel
+islander 0 released a machete
+islander 0 released a coconut
+islander 0 done
+islander 8 got a machete
+islander 8 enjoying a pina colada
+islander 8 released a funnel
+islander 8 released a machete
+islander 8 released a coconut
+islander 8 done
+islander 34 got a machete
+islander 34 enjoying a pina colada
+islander 34 released a funnel
+islander 34 released a machete
+islander 34 released a coconut
+islander 34 done
+islander 11 got a machete
+islander 11 enjoying a pina colada
+islander 21 released a funnel
+islander 21 released a machete
+islander 21 released a coconut
+islander 21 done
+islander 13 got a machete
+islander 13 got a funnel
+islander 13 got a coconut
+islander 13 enjoying a pina colada
+islander 9 released a funnel
+islander 9 released a machete
+islander 9 released a coconut
+islander 9 done
+islander 14 got a machete
+islander 14 got a funnel
+islander 14 got a coconut
+islander 14 enjoying a pina colada
+islander 11 released a funnel
+islander 11 released a machete
+islander 11 released a coconut
+islander 11 done
+islander 14 released a funnel
+islander 14 released a machete
+islander 14 released a coconut
+islander 14 done
+islander 13 released a funnel
+islander 13 released a machete
+islander 13 released a coconut
+islander 13 done
+All islanders have achieved happyhour

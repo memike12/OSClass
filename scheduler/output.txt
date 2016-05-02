@@ -1,0 +1,7 @@
+Algorithm: FCFS	  Turn Around Time: 51.09846725499303	 Response Time: 45.59916395726893 	 Through Put: 5.807710171853228
+Algorithm: RR	  Turn Around Time: 64.35903390617743	 Response Time: 26.333372039015327 	 Through Put: 5.807710171853228
+Algorithm: Pri	  Turn Around Time: 52.739781699953554	 Response Time: 40.47700882489549 	 Through Put: 5.807710171853228
+Algorithm: SPN	  Turn Around Time: 32.87540640966094	 Response Time: 27.376103111936832 	 Through Put: 5.807710171853228
+Algorithm: SRT	  Turn Around Time: 32.17777519739898	 Response Time: 25.800743149094288 	 Through Put: 5.807710171853228
+Algorithm: HRRN	  Turn Around Time: 41.87552252670692	 Response Time: 36.37621922898281 	 Through Put: 5.807710171853228
+The worst algorithm based on fairness would have to be Priority scheduling. If just a task with a lower priority comes along, and there are a bunch of high priority tasks, the low priority task could easily die due to starvation.
